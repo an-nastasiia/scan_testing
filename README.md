@@ -6,9 +6,6 @@
 
 ```
 git clone git@github.com:an-nastasiia/scan_testing.git
-```
-
-```
 cd scan_testing
 ```
 
